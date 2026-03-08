@@ -22,6 +22,14 @@ pip install -r requirements.txt
 
 ## Usage
 
+## Data
+
+LOL:https://www.kaggle.com/datasets/soumikrakshit/lol-dataset
+
+LSRW:https://pan.baidu.com/s/1XHWQAS0ZNrnCyZ-bq7MKvA (code: wmrr).
+
+SICE:https://github.com/csjcai/SICE
+
 ### Testing
 
 ```bash
